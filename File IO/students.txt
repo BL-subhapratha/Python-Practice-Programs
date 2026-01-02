@@ -1,0 +1,8 @@
+001, Aishwarya, Bio
+002, Divya, CSE
+003, Pavan, ECE
+004, Teja, CSE
+005, Subha, CSE
+006, Shruthi, Design
+007, Shiva, Design
+008, Vishwas, Graphics

@@ -1,0 +1,7 @@
+Stock Name, Number of Shares, Share Price, Total Share Value
+TCS, 2, 2, 4
+HCL, 3, 3, 9
+Ford, 5, 5, 25
+SRM, 4, 2, 8
+CIT, 7, 4, 28
+Azus, 4, 5, 20
